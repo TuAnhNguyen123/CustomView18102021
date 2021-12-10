@@ -31,7 +31,6 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:scaleType="fitXY"
                     android:id="@+id/imageViewIconModule"
                     android:padding="8dp"
                     android:background="@drawable/bg_circle_icon"
